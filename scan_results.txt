@@ -1,0 +1,3 @@
+[+] Port 135 is OPEN
+[+] Port 445 is OPEN
+[+] Port 843 is OPEN
